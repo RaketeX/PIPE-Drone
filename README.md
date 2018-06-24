@@ -14,6 +14,8 @@ from the Hector-Seminar.
 
 LINKS:
 
+Felgen: http://www.modellbau-seidel.de/index.php?firma=Tamiya&best=0440209
+Mantel: http://www.modellbau-seidel.de/index.php?firma=Tamiya&best=54185
 3D-Case: https://www.tinkercad.com/      user:erik.rakete000 Project:Pipe Drone
 Motors: https://www.conrad.de/de/universal-brushed-elektromotor-igarashi-n2738-125-12v-5800-umin-244475.html
 H-Bridge: https://www.amazon.de/Dual-Bridge-Motortreiber-Controller-Stepper-Arduino/dp/B01IY7RCFQ/ref=sr_1_9?s=computers&ie=UTF8&qid=1529834461&sr=1-9&keywords=L298N
