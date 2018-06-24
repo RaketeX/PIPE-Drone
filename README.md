@@ -14,6 +14,8 @@ from the Hector-Seminar.
 
 LINKS:
 
+Arduino Nano: https://store.arduino.cc/arduino-nano
+App for bluetooth control: https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor
 Felgen: http://www.modellbau-seidel.de/index.php?firma=Tamiya&best=0440209
 Mantel: http://www.modellbau-seidel.de/index.php?firma=Tamiya&best=54185
 3D-Case: https://www.tinkercad.com/      user:erik.rakete000 Project:Pipe Drone
